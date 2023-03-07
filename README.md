@@ -2,11 +2,11 @@
 
 ## Part 1
 
-### Class
+#### Class
 - TimelineController
 - TimelineControllerTest
 
-### LWC
+#### LWC
 - Portfolio
 - ProfilePicture
 - Timeline
@@ -16,7 +16,7 @@
 
 ## Part 2
 
-### Class
+#### Class
 - AccountTrigger
 - TriggerHandler
 - AccountTriggerHandler
@@ -24,7 +24,7 @@
 
 ## Part 3
 
-### Class
+#### Class
 - RedditMgmt
 - RedditMgmtTest
 - RedditToSalesforce
