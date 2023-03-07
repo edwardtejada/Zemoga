@@ -1,18 +1,30 @@
-# Salesforce DX Project: Next Steps
+# Zemoga Challenge
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+## Part 1
 
-## How Do You Plan to Deploy Your Changes?
+### Class
+-TimelineController
+-TimelineControllerTest
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+### LWC
+-Portfolio
+-ProfilePicture
+-Timeline
+-WorkExperience
 
-## Configure Your Salesforce DX Project
+<img width="1318" alt="Screen Shot 2023-03-06 at 9 07 29 PM" src="https://user-images.githubusercontent.com/6569355/223297321-166a71ee-2e78-4b43-9559-66469c09d915.png">
 
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
+## Part 2
 
-## Read All About It
+### Class
+-AccountTrigger
+-TriggerHandler
+-AccountTriggerHandler
+-AccountTriggerTest
 
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+## Part 3
+
+### Class
+-RedditMgmt
+-RedditMgmtTest
+-RedditToSalesforce
