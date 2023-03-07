@@ -1,0 +1,8 @@
+:host {
+    --sds-c-card-color-background: #a1d6e4;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 40px;
+}

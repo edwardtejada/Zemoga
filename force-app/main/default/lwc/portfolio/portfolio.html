@@ -1,0 +1,16 @@
+<template>
+    <lightning-card title="Portfolio" icon-name="standard:display_text">
+        <lightning-layout multiple-rows>
+            <lightning-layout-item size="4" padding="around-medium">
+                <c-profile-picture image-u-r-l={imageURL}></c-profile-picture>
+                <br>
+                <c-timeline user-name={firstName}></c-timeline>
+            </lightning-layout-item>
+            <lightning-layout-item size="8" padding="around-medium">
+                <h1>{userName}</h1>
+                <br>
+                <c-work-experience work-experience={workExperience}></c-work-experience>
+            </lightning-layout-item>
+        </lightning-layout>
+    </lightning-card>
+</template>
